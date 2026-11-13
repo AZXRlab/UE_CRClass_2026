@@ -1,2 +1,3 @@
-2026/11/06-15:08:44.848 7e10 Creating DB D:\Class_GameEngineAdvanced\ProjecctFile\UEGraphicClass\CR_Class_2026\Saved\webcache_6613\Default\shared_proto_db since it was missing.
-2026/11/06-15:08:44.984 7e10 Reusing MANIFEST D:\Class_GameEngineAdvanced\ProjecctFile\UEGraphicClass\CR_Class_2026\Saved\webcache_6613\Default\shared_proto_db/MANIFEST-000001
+2026/11/13-12:09:30.765 2868 Reusing MANIFEST D:\Class_GameEngineAdvanced\ProjecctFile\UEGraphicClass\CR_Class_2026\Saved\webcache_6613\Default\shared_proto_db/MANIFEST-000001
+2026/11/13-12:09:30.769 2868 Recovering log #3
+2026/11/13-12:09:30.769 2868 Reusing old log D:\Class_GameEngineAdvanced\ProjecctFile\UEGraphicClass\CR_Class_2026\Saved\webcache_6613\Default\shared_proto_db/000003.log 
