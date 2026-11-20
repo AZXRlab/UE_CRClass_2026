@@ -1,4 +1,62 @@
-[38652:36656:1113/145933.713:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[38652:36656:1113/145933.758:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
-[34180:8960:1113/145936.505:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-5883CB9A2838D9E70E7BE74EF30C1F2F will be ignored
-[38652:36656:1113/154141.622:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
+[18312:41020:1120/125641.761:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[18312:41020:1120/125641.878:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[40208:36084:1120/125644.791:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-028AEABFBC4E80BEA168C153EE7E7E05 will be ignored
+[23064:46292:1120/125645.607:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[23064:12948:1120/125645.631:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[23064:12948:1120/125645.632:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[23064:12948:1120/125645.632:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[17944:13996:1120/125645.662:WARNING:host_resolver_dns_task.cc(863)] Address list empty after RFC3484 sort
+[17944:13996:1120/125645.664:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.cloudflare.com., errorcode: -105
+[17944:13996:1120/125645.664:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.cloudflare.com., errorcode: -105
+[17944:13996:1120/125645.664:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.cloudflare.com., errorcode: -105
+[23064:12948:1120/125645.664:WARNING:stun_port.cc(442)] Port[167fc00:0:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[23064:12948:1120/125645.664:WARNING:stun_port.cc(442)] Port[1790800:1:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[23064:12948:1120/125645.664:WARNING:stun_port.cc(442)] Port[1791000:2:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[17944:13996:1120/125645.665:WARNING:host_resolver_dns_task.cc(863)] Address list empty after RFC3484 sort
+[17944:13996:1120/125645.665:WARNING:host_resolver_dns_task.cc(863)] Address list empty after RFC3484 sort
+[17944:13996:1120/125645.670:ERROR:socket_manager.cc(147)] Failed to resolve address for stun1.l.google.com., errorcode: -105
+[17944:13996:1120/125645.671:ERROR:socket_manager.cc(147)] Failed to resolve address for stun1.l.google.com., errorcode: -105
+[17944:13996:1120/125645.671:ERROR:socket_manager.cc(147)] Failed to resolve address for stun1.l.google.com., errorcode: -105
+[23064:12948:1120/125645.671:WARNING:stun_port.cc(442)] Port[167fc00:0:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[23064:12948:1120/125645.671:WARNING:stun_port.cc(442)] Port[1790800:1:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[23064:12948:1120/125645.671:WARNING:stun_port.cc(442)] Port[1791000:2:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[17944:13996:1120/125645.671:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.l.google.com., errorcode: -105
+[17944:13996:1120/125645.672:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.l.google.com., errorcode: -105
+[17944:13996:1120/125645.672:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.l.google.com., errorcode: -105
+[23064:12948:1120/125645.672:WARNING:stun_port.cc(442)] Port[167fc00:0:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[23064:12948:1120/125645.672:WARNING:stun_port.cc(442)] Port[1790800:1:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[23064:12948:1120/125645.672:WARNING:stun_port.cc(442)] Port[1791000:2:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[18312:46480:1120/125645.854:WARNING:browser_info.cc(345)] Returning a speculative frame for [7,9]
+[18312:41020:1120/125645.900:WARNING:browser_info.cc(345)] Returning a speculative frame for [8,5]
+[18312:41020:1120/125645.900:WARNING:browser_info.cc(345)] Returning a speculative frame for [8,5]
+[18312:41020:1120/125645.900:WARNING:browser_info.cc(345)] Returning a speculative frame for [8,5]
+[18312:41020:1120/125645.900:WARNING:browser_info.cc(345)] Returning a speculative frame for [8,5]
+[18312:46480:1120/125645.913:WARNING:browser_info.cc(345)] Returning a speculative frame for [8,5]
+[37356:25936:1120/125646.094:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[37356:17848:1120/125646.128:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[37356:17848:1120/125646.128:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[37356:17848:1120/125646.128:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[17944:13996:1120/125646.156:WARNING:host_resolver_dns_task.cc(863)] Address list empty after RFC3484 sort
+[17944:13996:1120/125646.157:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.cloudflare.com., errorcode: -105
+[17944:13996:1120/125646.158:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.cloudflare.com., errorcode: -105
+[17944:13996:1120/125646.158:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.cloudflare.com., errorcode: -105
+[37356:17848:1120/125646.158:WARNING:stun_port.cc(442)] Port[1ed4400:0:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[17944:13996:1120/125646.158:WARNING:host_resolver_dns_task.cc(863)] Address list empty after RFC3484 sort
+[17944:13996:1120/125646.158:WARNING:host_resolver_dns_task.cc(863)] Address list empty after RFC3484 sort
+[37356:17848:1120/125646.158:WARNING:stun_port.cc(442)] Port[1ed5c00:1:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[37356:17848:1120/125646.159:WARNING:stun_port.cc(442)] Port[1ed6400:2:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[17944:13996:1120/125646.159:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.l.google.com., errorcode: -105
+[17944:13996:1120/125646.159:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.l.google.com., errorcode: -105
+[17944:13996:1120/125646.159:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.l.google.com., errorcode: -105
+[17944:13996:1120/125646.159:ERROR:socket_manager.cc(147)] Failed to resolve address for stun1.l.google.com., errorcode: -105
+[17944:13996:1120/125646.159:ERROR:socket_manager.cc(147)] Failed to resolve address for stun1.l.google.com., errorcode: -105
+[37356:17848:1120/125646.159:WARNING:stun_port.cc(442)] Port[1ed4400:0:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[17944:13996:1120/125646.159:ERROR:socket_manager.cc(147)] Failed to resolve address for stun1.l.google.com., errorcode: -105
+[37356:17848:1120/125646.159:WARNING:stun_port.cc(442)] Port[1ed5c00:1:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[37356:17848:1120/125646.159:WARNING:stun_port.cc(442)] Port[1ed6400:2:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[37356:17848:1120/125646.159:WARNING:stun_port.cc(442)] Port[1ed4400:0:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[37356:17848:1120/125646.159:WARNING:stun_port.cc(442)] Port[1ed5c00:1:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[37356:17848:1120/125646.159:WARNING:stun_port.cc(442)] Port[1ed6400:2:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[37356:25936:1120/125647.315:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[12364:45348:1120/125854.853:ERROR:shared_image_manager.cc(224)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+[18312:41020:1120/145032.407:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
